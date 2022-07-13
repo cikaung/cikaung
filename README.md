@@ -60,18 +60,3 @@
   </p>
 </p>
 <p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
-
-
-<p>
-<a href="https://indiafightscorona.giveindia.org">
-<img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="200" />
-</a>
-
-Are you considering supporting the project by donating? Please DON'T!!  
-
-Instead, Help India fight the 2nd deadly wave of COVID-19.  
-Thousands of people are dying in India because of a lack of Oxygen & also COVID-related infrastructure.  
-
-Visit [https://indiafightscorona.giveindia.org](https://indiafightscorona.giveindia.org) and make a small donation to help us fight COVID and overcome this crisis.   
-A small donation goes a long way. :heart:
-</p>
