@@ -59,4 +59,3 @@
     <a href="/docs/readme_tr.md">Türkçe</a>
   </p>
 </p>
-<p align="center">Love the project? Please consider <a href="Don't click">donating</a> to help it improve!
